@@ -19,4 +19,4 @@ pip3 install tensorflow.
 
 4)Once installing all the packages go the folder of Diabetic Retinopathy open the main code and run the code, make sure the images are all in the main folder once you run you will get a GUI where it will ask to select the image once the image is selected from the folder of Diabetic Retinopathy you can click on  predict button on GUI and it will predict the level of Disease.
 
-5)For the Understanding of training and the model I have uploaded all the codes separately for the reference.
+5)For the Understanding of training and the model I have uploaded all the codes separately for the reference.( Lenet is the convolutional neural network which is used to build the machine learning model for this project).
