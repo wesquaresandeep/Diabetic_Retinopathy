@@ -4,6 +4,7 @@ Detection of the level of Diabetic Retinopathy Disease using Machine Learning Te
 Diabetic Retinopathy is the one of the major disease that occur to diabetes people, there are different levels about the stage of diabetic retinopathy, during my thesis I worked on building the machine learning model to detect the level of Diabetic Retinopath and successful detection of the Diabetic Retinopathy.
 
 Steps and Procedure involved.
+
 1)Download the zip folder of Diabetic Retinoapthy which I have uploaded with the main in the git and extract it, It cotains the python code, the algorithm,GUI I have also uploaded the the codes separately for reference.
 
 2)Install python 3.10.8 go the path where python is installed, for the reference I have added my PC path for python.
