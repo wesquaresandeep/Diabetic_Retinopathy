@@ -9,13 +9,13 @@ Steps and Procedure involved.
 
 2)Install python 3.10.8 go the path where python is installed, for the reference I have added my PC path for python.
 C:\Users\98861\AppData\Local\Programs\Python\Python310\Scripts
-open the prompt window in this loaction.
+open the prompt window in this loaction.(this path is for my pc)
 
-3)Open the prompt window install all the necessary packags
-pip3 install opencv
-pip3 install imultils
-pip3 install pillow
-pip3 install tensorflow
+3)Open the prompt window install all the necessary packages
+pip3 install opencv,
+pip3 install imultils,
+pip3 install pillow,
+pip3 install tensorflow.
 
 4)Once installing all the packages go the folder of Diabetic Retinopathy open the main code and run the code, make sure the images are all in the main folder once you run you will get a GUI where it will ask to select the image once the image is selected from the folder of Diabetic Retinopathy you can click on  predict button on GUI and it will predict the level of Disease.
 
